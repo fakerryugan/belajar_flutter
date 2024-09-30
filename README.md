@@ -1,15 +1,25 @@
-1.membuat create flutter 
-dengan mengetik >flutter create project
-<img width="449" alt="image" src="https://github.com/user-attachments/assets/0e6f591a-62d3-4660-af8c-1fbd3f2eb0cd">
-lalu tekan aplication
-![Screenshot 2024-09-30 104812](https://github.com/user-attachments/assets/48ed9c65-118e-4b60-9c80-df5bb7c2de78)
-bebas menamai project yang mau dibuat
-![Screenshot 2024-09-30 104827](https://github.com/user-attachments/assets/281976fd-00fa-47cb-b0e8-7d194e8d0dee)
-nanti akan muncul file seperti ini
-![Screenshot 2024-09-30 105025](https://github.com/user-attachments/assets/2c226bca-c309-4d6f-87a2-1ad31cd919f3)
-dan untuk menampilkan dengan mengetik flutter run -d chrome di terminal vscode
-![Screenshot 2024-09-30 105056](https://github.com/user-attachments/assets/9ba929e0-bb6f-4e4b-a90d-2ec8f23b7be7)
-hasil
-![Screenshot 2024-09-30 105724](https://github.com/user-attachments/assets/d734ae7f-540f-4b53-91e9-4c7deba7950a)
+Membuat Proyek Flutter
+Langkah 1: Membuat Proyek
+Buka terminal dan ketik perintah berikut untuk membuat proyek Flutter:
+![image](https://github.com/user-attachments/assets/1f790edc-f1d5-48c5-a710-9d827de96abe)
+
+Pilih Application sebagai tipe proyek:
+![Screenshot 2024-09-30 104812](https://github.com/user-attachments/assets/f16102a2-27fd-4e08-9b26-d377343562df)
+
+Beri nama proyek sesuai keinginan Anda:
+![Screenshot 2024-09-30 104827](https://github.com/user-attachments/assets/91a8eebf-51be-4ce3-9c95-241032ed38bd)
 
 
+Langkah 2: Struktur Proyek
+Setelah proyek berhasil dibuat, Anda akan melihat struktur file seperti ini:
+![Screenshot 2024-09-30 105025](https://github.com/user-attachments/assets/c4efaa2c-ad6c-45bf-8bf7-f83f9e343864)
+
+
+Langkah 3: Menjalankan Proyek
+Buka terminal di Visual Studio Code.
+Jalankan perintah berikut untuk menjalankan aplikasi di browser Chrome:
+![Screenshot 2024-09-30 105056](https://github.com/user-attachments/assets/5b121bc1-08cc-4f39-af9c-42ac50362cff)
+
+Hasil
+Aplikasi akan ditampilkan di browser Chrome dengan tampilan seperti berikut:
+![Screenshot 2024-09-30 105724](https://github.com/user-attachments/assets/5f1221c2-4a77-4449-8330-24591a1b20aa)
