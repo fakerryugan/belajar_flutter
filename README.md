@@ -26,3 +26,26 @@ Jalankan perintah berikut untuk menjalankan aplikasi di browser Chrome:
 Hasil
 Aplikasi akan ditampilkan di browser Chrome dengan tampilan seperti berikut:
 ![Screenshot 2024-09-30 105724](https://github.com/user-attachments/assets/5f1221c2-4a77-4449-8330-24591a1b20aa)
+
+
+
+<h3>pratikum 2</h3>
+buatlah akun terlebih dahulu di github dan buatlah new repository
+![Screenshot 2024-09-30 112036](https://github.com/user-attachments/assets/467883f6-7f7c-40af-806b-fb85edb4414b)
+
+jika sudah membuat repositor maka akan muncul seperti ini
+![Screenshot 2024-09-30 112046](https://github.com/user-attachments/assets/4854edf1-06b1-4f4c-bd7f-1a29ff81c68f)
+
+pada vscode pilih satu file dan tekan + untuk percobaan
+![Screenshot 2024-09-30 112117](https://github.com/user-attachments/assets/5205fa4e-f0e7-4f56-91ca-aa0d50e0a5a6)
+
+setelah itu klik commit
+![Screenshot 2024-09-30 112131](https://github.com/user-attachments/assets/a8b8577f-5782-42aa-b293-a9c721440b05)
+
+kalau sudah pilih titik 3 di kanan dan pilih push
+![Screenshot 2024-09-30 112137](https://github.com/user-attachments/assets/e00f525d-d1f6-4b70-a13e-44e9a98fc183)
+
+kalau sudah bisa maka klik comit dan klik yes untuk all stage dan lakukan seperti tadi maka hasilnya akan seperti ini
+![Screenshot 2024-09-30 123400](https://github.com/user-attachments/assets/d51c94ea-2da2-451b-9763-cbe8d812ff61)
+
+
