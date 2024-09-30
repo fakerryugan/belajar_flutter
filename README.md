@@ -20,6 +20,7 @@ Buka terminal di Visual Studio Code.
 Jalankan perintah berikut untuk menjalankan aplikasi di browser Chrome:
 ![Screenshot 2024-09-30 105056](https://github.com/user-attachments/assets/5b121bc1-08cc-4f39-af9c-42ac50362cff)
 
+
 Hasil
 Aplikasi akan ditampilkan di browser Chrome dengan tampilan seperti berikut:
 ![Screenshot 2024-09-30 105724](https://github.com/user-attachments/assets/5f1221c2-4a77-4449-8330-24591a1b20aa)
