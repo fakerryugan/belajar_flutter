@@ -77,6 +77,37 @@ dan ubah kode main seperti ini
 maka hasilnya seperti ini di run
 ![Screenshot 2024-09-30 134302](https://github.com/user-attachments/assets/479d98b5-da00-4964-bc79-dfa6e018f196)
 
+<h4>pratikum 4</h4>
+Menerapkan Widget Material Design dan iOS Cupertino
+Buat file di basic_widgets > loading_cupertino.dart.Buat file di basic_widgets > fab_widget.dart
+<img width="116" alt="image" src="https://github.com/user-attachments/assets/059e8332-5653-4ea7-9a6f-81d0f07abf0f">
+
+<h3>hasil</h3>
+
+
+Cupertino Button dan Loading Bar.Floating Action Button (FAB)
+![Screenshot 2024-10-01 103111](https://github.com/user-attachments/assets/fc74e783-ffdc-48be-8cd7-d1b30ced69bf)
+
+ Scaffold Widget
+ ![Screenshot 2024-10-01 103353](https://github.com/user-attachments/assets/2ed0c95d-63af-43af-967c-269d301df8e7)
+
+
+ Dialog Widget
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/855ee4e0-dbcf-4fdf-814b-77212ee01216">
+
+
+ Input dan Selection Widget
+ ![Screenshot 2024-10-01 103502](https://github.com/user-attachments/assets/c15ebde9-acee-4de2-8794-f759539d1e23)
+
+ 
+ 
+
+ Date and Time Pickers
+ ![Screenshot 2024-10-01 103639](https://github.com/user-attachments/assets/e0b2516c-bf9c-4df7-8462-e8d6096ad598)
+
+ 
+
+
 
 
 
